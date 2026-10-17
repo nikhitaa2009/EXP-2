@@ -5,14 +5,54 @@ Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
+<table>
+  <thead>
+    <tr>
+      <th>S.NO</th>
+      <th>APPARATUS</th>
+      <th>RANGE TYPE</th>
+      <th>QUANTITY</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Row 1 (3 Columns) -->
+    <tr>
+      <td>1</td>
+      <td>voltmeter</td>
+      <td>(0-300)v MC</td>
+      <td>1</td>
+    </tr>
+    <!-- Row 2 (3 Columns) -->
+    <tr>
+      <td>2</td>
+      <td>ammeter</td>
+      <td>(0-2.5)A MC </td>
+      <td>1</td>
+    </tr>
+    <!-- Row 3 (3 Columns) -->
+    <tr>
+      <td>3</td>
+      <td>ammeter</td>
+      <td>(0-5)A MC</td>
+      <td>1</td>
+    </tr>
+    <!-- Row 4 (2 Columns total using a horizontal span) -->
+    <tr>
+      <td>4</td>
+      <td>rheostat </td>
+      <td>wire wounded</td>
+      <td>1</td>
+    </tr>
+     <tr>
+      <td>5</td>
+      <td>connecting wires</td>
+      <td>-</td>
+      <td>as required</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
 
-Sl .no	Apparatus	Range	Type	Quantity
-1	Volt meter	(0-300)V	MC	1
-2	Ammeter	(0-2.5)A	MC	1
-3	Ammeter	(0-5)A	MC	1
-4	Rheostat		Wire wouned	1
-5	Rheostat		Wire wouned	1
-6	Connecting wires	-	-	As required
 
 Fuse rating calculation for field and armature:
 
