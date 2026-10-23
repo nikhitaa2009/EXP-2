@@ -1,10 +1,10 @@
 # EXP-2
-EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
+## EXPT NO: 2  LOAD CHARACTERISTICS AND MAGNETISATION CHARACTERISTICS OF D.C SHUNT GENERATOR
 
-Aim:
+### AIM:
 To conduct load test on separately excited generators and to obtain the characteristics
 
-Apparatus Required:
+### APPARATUS REQUIRED:
 <table>
   <thead>
     <tr>
@@ -54,30 +54,31 @@ Apparatus Required:
 </table>
 
 
-Fuse rating calculation for field and armature:
+### Fuse rating calculation for field and armature:
 
-No load test
+No load test:
 
 10 % of rated current (full load current)
 
-Load test
+Load test:
 
 125 % of rated current (full load current)
 
-Precautions
+### PRECAUTIONS:
 
 1.   Motor side field rheostat should be kept at minimum resistance position.
 2.   Generator side field rheostat should be kept at maximum resistance position.
 3.   Starter should be in off position before switching on the supply.
 4.   The DPST switch must be kept open.Procedure for open circuit test
-Procedure
+
+### Procedure
 1.   Connections are given as per the circuit diagram.
 2.   The motor is started with the help of THREE POINT starter.
 3.   Adjust the motor speed to rated speed by adjusting motor field rheostat when the generator is disconnected from the load by DPST switch 2.
 4.   By  varying  the  generator  field  rheostat  gradually,  the  open  circuit  voltage  [Eo]  and corresponding field current (If) are tabulated up to 125 % of rated voltage of generator.
 5.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Procedure for Load test:
+### Procedure for Load test:
 
 1.   Connections are given as per the circuit diagram
 2.   The prime mover is started with the help of three point starter and it is made to run at rated speed when the generator is disconnected from the load by DPST switch 2.
@@ -87,6 +88,8 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
+  
+
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
@@ -94,10 +97,10 @@ Tabulation for Load Test:
 Model graph:
 Calculation: 
 
-Open circuit characteristics
+MAGNETISATION characteristics
 
   
 Load Characteristics:
  
-Result:
+### Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
